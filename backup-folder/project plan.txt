@@ -1,0 +1,4 @@
+implement React's useContext to share the filtered data to
+reflect the same data on both the map and the listing sections.
+
+

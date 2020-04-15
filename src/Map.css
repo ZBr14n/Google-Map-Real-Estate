@@ -1,0 +1,23 @@
+.style-map{
+    /* border: 3px solid red; */
+}
+
+
+/* .house-info-wrapper{
+    overflow: hidden;
+} */
+/* .house-info-wrapper > img:hover .house-info{
+} */
+
+/* .house-info-wrapper > img:hover{
+    transform: scale(2.0);
+    transition: .6s ease-out;
+} */
+.house-info{
+    font-size: 1.1rem;
+    float: right;
+    padding-left: 5px;
+}
+.house-info .priceColor{
+    color: red;
+}

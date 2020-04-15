@@ -1,0 +1,66 @@
+        if(event.target.className==='price underline' &&
+           refPrice.innerHTML==='Lowest Price'){
+            event.target.className = 'price underline';
+
+            if(event.target.className==='price' &&
+               refPrice.innerHTML==='Highest Price'){
+            event.target.className = 'price';
+            }
+        }
+
+
+        if(event.target.className==='price underline' &&
+        refPrice.innerHTML==='Highest Price'){
+         event.target.className = 'price underline';
+
+         if(event.target.className==='price' &&
+            refPrice.innerHTML==='Lowest Price'){
+         event.target.className = 'price';
+             }
+        }
+
+
+
+
+
+
+
+
+
+
+so far i am able to populate the marker with price onClick
+
+-still need to implement mouse hover
+
+
+
+                icon: {
+                  url: '../images/cottage.png',
+                  anchor: new maps.Point(5,58)
+                },   
+
+
+
+
+                icon: {
+                  url: '../images/cottage.png',
+                  labelContent: place.image,
+                  labelAnchor: new maps.Point(18, 12),
+                  anchor: new maps.Point(5,58)
+                },     
+
+
+
+
+
+
+
+
+
+
+
+<div className="house-images" style={{background: `url(${entry.image}) no-repeat center center / cover`, width: '100%', height: '100%'}}>
+                                <h3>{savePrice}</h3><br />
+                                {/* <p>{entry.bedrooms} {entry.bathrooms} {entry.size}</p>                            
+                                <p>{entry.address}</p> */}
+                            </div>                

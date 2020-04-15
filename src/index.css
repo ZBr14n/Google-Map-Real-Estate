@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+  height: 100%;                      
+}
+body {
+  height: 100%;                        
+  margin: 0;                           
+  overflow: hidden;
+}
+
+
+.style-listings{
+    display: flex;
+    height: 50%;
+    overflow-y: hidden;
+    /* border: 3px solid green; */
+        
+    /* position: relative;
+    bottom: 90%;
+    left: 75%; */
+  
+}
