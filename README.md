@@ -2,7 +2,7 @@
 
 http://real-estate-search.surge.sh/
 
-![#f03c15] The sorting from highest price and lowest price currently works on FireFox only. Currently investigating why this is not working for Chrome and Edge browsers, etc.
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+)`The sorting from highest price and lowest price currently works on FireFox only. Currently investigating why this is not working for Chrome and Edge browsers, etc.`
 
 
 
