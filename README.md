@@ -16,8 +16,7 @@ Using Google Map's API integration with React.js I was able to create a real-est
 - Learned how Google Map API is integrated with React.js via documentation.
 - Learned how to style a complex layout similar to websites like zillow and trulia.
 
-# Features to add for improvement:
-
-  - Filter component for price, apartment type, and bedroom.
+# Features to add for improvement:  
+  - Apply redux or useContext for Filter component for price, apartment type, and bedroom.
   - When user hovers a home on the listings section, create a unique key to associate each home on the map and color code which one it is on the map.
 
