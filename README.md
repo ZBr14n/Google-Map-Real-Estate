@@ -2,6 +2,10 @@
 
 http://real-estate-search.surge.sh/
 
+![#f03c15] The sorting from highest price and lowest price currently works on FireFox only. Currently investigating why this is not working for Chrome and Edge browsers, etc.
+
+
+
 # What is this?
 
 Using Google Map's API integration with React.js I was able to create a real-estate search platform with some data to query. Inspired by the webste design by Trulia and Zillow, I wanted to create something similar with my current understanding of web technologies. 
